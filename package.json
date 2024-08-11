@@ -1,0 +1,12 @@
+{
+  "name": "craft",
+  "version": "0.1.0",
+  "description": "Personal UI/UX interaction study and design experiments",
+  "main": "index.js",
+  "repository": "https://github.com/partykyoung/craft",
+  "author": "partykyoung",
+  "license": "MIT",
+  "scripts": {
+      "start": "npx http-server ./image-lazy-loading -c-1 -p 8000 -a localhost"
+  }
+}
