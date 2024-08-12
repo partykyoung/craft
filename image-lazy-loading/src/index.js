@@ -158,8 +158,6 @@ const observer = new IntersectionObserver((entries) => {
 
         const image = await loadImage(img.dataset.src);
 
-        console.log(img.src, image);
-
         if (img.src !== image) {
           img.src = image;
         }
