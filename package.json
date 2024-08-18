@@ -7,6 +7,6 @@
   "author": "partykyoung",
   "license": "MIT",
   "scripts": {
-      "start": "npx http-server ./image-lazy-loading -c-1 -p 8000 -a localhost"
+      "start": "npx http-server ./wave-slide -c-1 -p 8000 -a localhost"
   }
 }
